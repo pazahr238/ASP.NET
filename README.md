@@ -1,6 +1,6 @@
 # Project Name
 
-An innovative Hybrid Recommender Systems using a combination of some different techniques.
+An innovative Hybrid Recommender System using a combination of some different techniques.
 
 ## Installation
 
