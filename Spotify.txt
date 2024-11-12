@@ -1,0 +1,22 @@
+Client ID:
+
+95da9f399a7847a3944c7508196e3ddd
+
+
+Client Secret:
+
+5a7aaef94bac44878b08edaa77c07ee6
+
+
+Access Token:
+ 
+BQBmeSCEoPCRfgmy99TuNAAj_Ti8LPA41h37lK_CGSU4K2i9KDtrw-kSQaj7qmDYx4VvIQVxl2fCtRmewcpvpNaHNhvRN2Rg0oQHyWX18DXwr1J2ZtYdxH7VS-xs-_tyPrQTG7moczdpaEbAMN2KIsGUekNVF4bWuC_upZvz9iJrfI25KaF8Lv9vHgqFzHOUzB4r-b02Sv4WEgzBoguCgMwoojT4nle4IvA8u8S9-izxWI-LO3JuGhKfXDc2jnA84GDeoQ1iJYmZJyvys9iRFsfKh3kyGzH4ngwKNV6_RdMPaUW5qGZenDyLnbNMnwU
+
+https://accounts.spotify.com/authorize?client_id=95da9f399a7847a3944c7508196e3ddd&redirect_uri=http:%2F%2Fpazahr.ir&scope=user-read-private%20user-read-email&response_type=token&state=123
+
+
+javab:
+https://stackoverflow.com/questions/21158298/how-to-force-webrequest-to-send-authorization-header-during-post
+
+console:
+https://developer.spotify.com/web-api/console/get-search-item/
